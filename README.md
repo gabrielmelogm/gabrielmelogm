@@ -1,5 +1,5 @@
 ### Salve! Me chamo Gabriel
-
+- 🐧 Apaixonado por Linux
 - 🔭 Desenvolvedor Full Stack
 - 🌱 Estudando JavaScript
 - 👯 Me aventurando em React
