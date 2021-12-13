@@ -1,9 +1,8 @@
-### Salve! Me chamo Gabriel
-- 🐧 Apaixonado por Linux
-- 🔭 Desenvolvedor Full Stack
-- 🌱 Estudando JavaScript
-- 👯 Me aventurando em React
-- 🤔 Entusiasta de Python
+### Hello there! I'm Gabriel
+- 🐧 In love with linux
+- 🔭 Software Developer
+- 🌱 Migrating to JavaScript
+- 👯 Venturing into React
 
  <div>
   <a href="https://github.com/gabrielmelogm">
