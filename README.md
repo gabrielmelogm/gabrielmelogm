@@ -1,4 +1,5 @@
 # Hello there! I'm Gabriel, full-stack developer
+- 📚 I learning currently nest and vue
 - ❤️ God in heaven javascript on earth
 - 👯 Best stack is React
 - 🐧 In love with linux
